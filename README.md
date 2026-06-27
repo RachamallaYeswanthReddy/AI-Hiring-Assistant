@@ -167,19 +167,6 @@ ipykernel
 
 ---
 
-## .gitignore
-
-```gitignore
-.env
-.venv/
-venv/
-__pycache__/
-.ipynb_checkpoints/
-*.pyc
-```
-
----
-
 ## Notes
 
 - This repository does **not** include API keys.
@@ -188,7 +175,3 @@ __pycache__/
 - This project is intended for learning LangGraph workflows, state management, and human-in-the-loop AI applications.
 
 ---
-
-## License
-
-This project is intended for educational and learning purposes.
